@@ -1,0 +1,423 @@
+
+
+
+@media(max-width:1199px){
+	/*header-nav-section*/
+	.logo{
+		width: 32%;
+	}
+
+.navbar-nav{
+	margin: 25px 0 17px;
+}
+
+}
+@media(max-width:991px){
+	/*header-nav-section*/
+	.logo{
+		width: 42%;
+}
+.navbar-default .navbar-nav > li{
+	margin: 0 20px
+}
+/*home-banner-under-section*/
+.welcom-to-text > h2{
+	margin-top: 26px;
+	font-size: 27px;
+}
+.welcome-image > img{
+	width: 57%;
+}
+.carousel-my,
+.carousel-inner-my,
+.carousel-inner-my > .item{
+	height: 340px;
+	margin: 0;
+}
+/*about-text-setion-start */
+.about-text > h1{
+    font-size: 35px;
+    margin-bottom: 10px
+}
+.about-text-section{
+    margin:40px 0;
+}
+.latest-desgin-section{
+	margin: 67px 0 50px;
+}
+/*latest-desgin-section-start*/
+.latest-desgin-text{
+	font-size: 35px;
+}
+/*testmonial-section*/
+.testimonial-text h4{
+	font-size: 22px;
+}
+/*services-section*/
+.services-title{
+	font-size: 35px;
+	margin-bottom: 0;
+}
+.services-box-title{
+	font-size: 32px;
+	margin: 32px 0 22px;
+}
+.services-box-title > span{
+	font-size: 19px;
+}
+/*footer-section*/
+.footer{
+	padding: 30px 0
+}
+.footer-box > h4{
+	margin: 29px 0 11px
+}
+/*about-page-about-section*/
+.about-page-title{
+	font-size: 35px;
+	line-height: 40px
+}
+/*our-team-section*/
+.our-team-title{
+    font-size: 31px;
+    letter-spacing: 3px;
+    padding-bottom: 5px
+}
+.badges-group{
+	width: 100%;
+}
+/*blog-page*/
+.catagoris{
+	padding: 0 15px
+}
+.pager-box > .pager{
+	margin: 20px 0
+}
+/*singel-blog-page-starat*/
+.catagoris-singel-inner{
+	margin: 0;
+}
+.catagoris-singel{
+	padding-left: 15px
+}
+/*contact-page-strat*/
+.address-box > h3{
+	margin-top: 25px
+}
+}
+@media(max-width:767px){
+	/*header-nav-section*/
+    .logo{
+		width: 43%;
+	}
+	.navbar-header{
+		margin: 8px 0 9px;
+	}
+	.logo > a > img{
+		position: absolute;
+        top: -28px;
+	}
+	.navbar-nav{
+		margin: 5px 0;
+	}
+	.navbar-default .navbar-nav > li{
+		text-align: right;
+		margin: 15px 10px;
+	}
+    .navbar-default .navbar-nav > li:last-child{
+	margin-right: 15px;
+}
+.carousel-my,
+.carousel-inner-my,
+.carousel-inner-my > .item{
+	height: 300px;
+	margin: 0;
+}
+/*home-banner-under-section*/
+.welcome-image > img{
+	width: 90%;
+}
+.welcom-to-text > h2{
+	font-size: 20px;
+}
+.welcom-to-text > p{
+	font-size: 14px;
+	line-height: 23px
+}
+.about-text > p{
+	font-size: 14px;
+}
+.about-text > h1{
+	font-size: 32px;
+}
+.latest-desgin-text{
+    font-size: 32px;
+}
+/*latest-desgin-section-start*/
+.gallery-container{
+	width: initial;
+	margin: initial;
+}
+.latest-desgin-section {
+    margin: 67px 0 10px;
+}
+/* testmonial-section*/
+.testimonial-text{
+    min-height: 212px;
+    padding: 70px 15px 0 132px;
+}
+.testimonial-text h4{
+	line-height: 29px;
+	font-size: 21.1px;
+}
+/*services-section*/
+.services-section{
+	margin-top: 30px
+}
+.services-box-container{
+	padding: 0;
+}
+.services-box-title{
+	text-align: center;
+}
+.services-title{
+	font-size: 32px;
+}
+.image-hoverbox{
+	width: 55%;
+	margin: 0 auto
+}
+.serveices-text{
+	text-align: center;
+}
+.serveices-text + span{
+	margin: 12px auto;
+}
+.servi-read{
+	text-align: center;
+}
+/*footer-section*/
+.my-text{
+	line-height: 27px
+}
+/*index-page-end*/
+/*banner-section-strat*/
+.banner-section{
+	padding: 40px 0
+}
+/*about-page-about-section*/
+.about-page-title{
+	font-size: 32px;
+	line-height: 10px;
+	font-weight: 600;
+}
+.about-img > img{
+    width: 70%;
+    margin: 20px auto
+}
+/*services-page-css-strat*/
+.typography-section{
+	padding: 15px 0
+}
+.typography-title{
+	font-size: 28px;
+	margin-bottom: 0;
+}
+h1.button{
+	font-size: 30px;
+}
+h2.button{
+	font-size: 25px;
+}
+h3.button{
+	font-size: 20.3px;
+}
+h4.button{
+	font-size: 15px;
+}
+h5.button{
+	font-size: 11.5px;
+}
+h6.button{
+	font-size: 10px;
+}
+.heading-back{
+	padding-left: 15px;
+}
+.nav-tabs > li{
+	margin: 0 18px;
+}
+/*blog-page-strat*/
+.blog-title{
+	margin: 15px 0 10px;
+	font-weight: 900
+}
+.blog-box-title > h4 > a{
+	line-height: 28px;
+}
+.post-by{
+	font-size: 17px;
+	margin-bottom: 18px
+}
+.blog-content > p{
+	padding: 12px 0;
+}
+.blog-box + .blog-box .post-by{
+	margin: 0 0 17px;
+}
+/*singel-blog-page-strat*/
+.coment-box > h3{
+	margin: -10px 0 -5px;
+	font-size: 21px;
+}
+.blog1-date-time{
+	margin-top: 30px
+}
+.singel-container{
+	padding: 0;
+	margin-top: 40px
+}
+.blog-1 > h4 > a{
+	line-height: 27px;
+    font-size: 17px;
+}
+.realated-posts-box > h3{
+	margin-top: 21px
+}
+.catagoris-singel-inner{
+	margin-top: 22px;
+}
+.catagoris-singel{
+	padding: 0
+}
+.gallery-section > h1{
+	font-size: 37px;
+	margin: 20px 0;
+}
+.gallery-section{
+	margin-bottom: -35px
+}
+/*contact-page-responsive*/
+.contact-heading{
+	margin: 16px 0;
+}
+.type-here-box > p{
+	margin-bottom: 10px;
+}
+.contact-group > .form-control{
+margin: 0;
+}
+.cnotact-type-container{
+	padding: 0;
+}
+.address-box > h3{
+	margin-top: 32px
+}
+}
+
+@media(max-width:640px){
+.logo > a > img {
+    position: absolute;
+    top: -3px;
+}
+.carousel-my,
+.carousel-inner-my,
+.carousel-inner-my > .item{
+	height: 250px;
+	margin: 0;
+}
+/* testmonial-section*/
+.testimonial-text{
+    min-height: 180px;
+    padding: 70px 15px 0;
+    text-align: center
+}
+.testimonial-text h4{
+	line-height: 29px;
+	font-size: 21px;
+}
+/*services-section*/
+.image-hoverbox{
+	width: 65%;
+}
+/*our-team-section*/
+.our-team-title{
+    font-size: 33px;
+    letter-spacing: 1px;
+    padding: 0;
+    font-weight: 900;
+}
+.our-team-box{
+	margin: 10px;
+}
+.blog-box{
+	padding: 0;
+}
+.blog-date-time-box{
+	margin: 20px 0 28px;
+}
+.blog-content > p{
+	font-size: 14px; 
+}
+.catagoris{
+	padding: 0;
+}
+.pager-box > .pager{
+	margin: 20px 0 -20px
+}
+.media-body{
+	overflow: visible;
+}
+.media-2{
+	overflow: visible;
+	margin-left: -79px;
+}
+/*singel-blog-page-strat*/
+.realated-posts-box > h3{
+	font-size: 20px;
+}
+.realated-posts-box a{
+	margin: 10px 0;
+}
+.live-comment-box > h3{
+	font-size: 20px
+}
+/*contact-page*/
+.cnotact-type-content{
+	margin-bottom: -10px
+}
+}
+@media (max-width:500px){
+	.navbar-header{
+		margin: 0;
+	}
+	.logo > a > img.img-responsive{
+	   min-width: 111%;
+	}
+	.map-contact > iframe{
+		height: 280px;
+	}
+	.contact-group > .form-control{
+		width: 100%;
+	}
+	.contact-group > textarea.form-control{
+		width: 100%;
+	}
+
+}
+@media (max-width:400px){
+    .logo > a > img.img-responsive{
+	   min-width: 141%;
+	}
+}
+@media (max-width:360px){
+    .logo > a > img.img-responsive{
+	   min-width: 186%;
+	}
+	.footer{
+		text-align: center;
+	}
+	.map-contact > iframe{
+		height: 220px;
+	}
+}
